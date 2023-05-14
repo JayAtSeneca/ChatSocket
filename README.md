@@ -1,3 +1,1 @@
 # ChatSocket
-
-## Update README
